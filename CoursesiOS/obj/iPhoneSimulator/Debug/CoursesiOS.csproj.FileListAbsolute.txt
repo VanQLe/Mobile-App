@@ -1,0 +1,10 @@
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\bin\iPhoneSimulator\Debug\CoursesiOS.exe
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\bin\iPhoneSimulator\Debug\CoursesiOS.pdb
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\CoursesiOS.csproj.CoreCompileInputs.cache
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\CoursesiOS.exe
+C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhoneSimulator\Debug\CoursesiOS.pdb
