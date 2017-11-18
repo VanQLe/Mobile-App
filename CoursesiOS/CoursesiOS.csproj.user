@@ -3,7 +3,7 @@
   <PropertyGroup>
     <CodesignEntitlements>
     </CodesignEntitlements>
-    <SelectedDevice>iPhone 8 Plus iOS 11.1</SelectedDevice>
+    <SelectedDevice>Simulator</SelectedDevice>
     <DefaultDevice>iPhone 8 Plus iOS 11.1</DefaultDevice>
   </PropertyGroup>
 </Project>
