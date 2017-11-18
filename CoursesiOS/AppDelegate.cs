@@ -16,11 +16,17 @@ namespace CoursesiOS
             get;
             set;
         }
+        CourseViewController viewController;
 
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
+
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+            viewController = new CourseViewController();
+            Window.RootViewController = viewController;
+            Window.MakeKeyAndVisible();
 
             return true;
         }

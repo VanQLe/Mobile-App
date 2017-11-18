@@ -4,9 +4,9 @@ using UIKit;
 
 namespace CoursesiOS
 {
-    public partial class ViewController : UIViewController
+    public partial class CourseViewController : UIViewController
     {
-        public ViewController(IntPtr handle) : base(handle)
+        public CourseViewController() : base("CourseViewController", null)
         {
         }
 
@@ -23,3 +23,4 @@ namespace CoursesiOS
         }
     }
 }
+

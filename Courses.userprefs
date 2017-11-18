@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AD7906B7-AAB7-40DE-8738-7890BB1F61BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoursesiOS/AppDelegate.cs">
+    <Files>
+      <File FileName="CoursesiOS/CourseViewController.cs" Line="1" Column="1" />
+      <File FileName="CoursesiOS/AppDelegate.cs" Line="29" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoursesAndroid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,10 +1,21 @@
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\bin\iPhone\Debug\CoursesiOS.exe
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\bin\iPhone\Debug\CoursesiOS.pdb
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\optimized\
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\CoursesiOS.csprojResolveAssemblyReference.cache
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\CoursesiOS.csproj.CoreCompileInputs.cache
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\CoursesiOS.exe
-C:\Users\Thi Cai\Desktop\Mobile App\Courses\CoursesiOS\obj\iPhone\Debug\CoursesiOS.pdb
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/bin/iPhone/Debug/CoursesiOS.exe
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/bin/iPhone/Debug/CoursesiOS.pdb
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/optimized/
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/CoursesiOS.csprojResolveAssemblyReference.cache
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/CoursesiOS.csproj.CoreCompileInputs.cache
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/CoursesiOS.exe
+C:/Users/Thi Cai/Desktop/Mobile App/Courses/CoursesiOS/obj/iPhone/Debug/CoursesiOS.pdb
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/bin/iPhone/Debug/CoursesiOS.exe
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/bin/iPhone/Debug/CoursesiOS.pdb
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/optimized/Entitlements.plist
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/optimized/
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/CoursesiOS.csprojResolveAssemblyReference.cache
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/CoursesiOS.csproj.CoreCompileInputs.cache
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/CoursesiOS.exe
+/Users/thienle/Desktop/Mobile App/Courses/Mobile-App/CoursesiOS/obj/iPhone/Debug/CoursesiOS.pdb
