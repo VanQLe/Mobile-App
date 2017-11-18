@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{AD7906B7-AAB7-40DE-8738-7890BB1F61BC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CoursesiOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoursesiOS/CourseViewController.designer.cs">
     <Files>
-      <File FileName="CoursesiOS/CourseViewController.cs" Line="1" Column="1" />
-      <File FileName="CoursesiOS/AppDelegate.cs" Line="29" Column="40" />
+      <File FileName="CoursesiOS/CourseViewController.designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
